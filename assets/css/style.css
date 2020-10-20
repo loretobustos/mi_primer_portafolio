@@ -1,0 +1,30 @@
+body {
+    padding: 5px;
+    margin: 0;
+}
+
+.sobre_mi {
+    text-align: center;
+}
+
+.desafios {
+    color: white;
+    text-align: center;
+    padding: 5px
+}
+
+.footer {
+    text-align: center;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.iconos {
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    width: 80px;
+    height: 80px;
+}
